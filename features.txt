@@ -1,0 +1,10 @@
+login --done
+admin profile --done
+view waitlist --done
+view brands that need to be varified can change status --done / half
+
+view all brands 
+view all products
+edit products
+change the status of product 
+view all orders sort by status
